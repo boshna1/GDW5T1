@@ -1175,3 +1175,4 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2025.09.30-21.20.09:596][421]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.09.30-21.20.11:407][530]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
 [2025.09.30-21.20.11:407][530]LogContentBrowser: End creating deferred item NewFolder
+[2025.09.30-21.21.40:697][996]LogDerivedDataCache: C:/Users/joshu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.010 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
